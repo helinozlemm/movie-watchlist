@@ -6,5 +6,6 @@ Movie data is provided by OMDb API.
 
 ![Alt text](D:/error/9.png)
 
+![Screenshot](9.png)
 
  
